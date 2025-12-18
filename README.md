@@ -1,21 +1,21 @@
-🛡️ Enterprise Fraud Risk Reporting & Executive Insights Platform
-Overview
+##🛡️ Enterprise Fraud Risk Reporting & Executive Insights Platform
+#Overview
 
 This project simulates an enterprise-level fraud risk management reporting platform designed to support executive decision-making, managerial oversight, and cross-functional alignment between Fraud Operations and Finance.
 
 The solution focuses on turning complex fraud data into clear, executive-ready insights, emphasizing fraud trends, financial impact, risk concentration, and reporting controls rather than model accuracy alone.
 
-Business Problem
+#Business Problem
 
 Financial institutions must continuously monitor fraud exposure while ensuring:
 
-Executive leadership receives clear, timely, and trusted insights
+- Executive leadership receives clear, timely, and trusted insights
 
-Fraud losses reconcile with General Ledger (GL) reporting
+- Fraud losses reconcile with General Ledger (GL) reporting
 
-Risk signals are translated into actionable strategy, not raw data
+- Risk signals are translated into actionable strategy, not raw data
 
-Reporting processes scale efficiently and reduce manual effort
+- Reporting processes scale efficiently and reduce manual effort
 
 This project demonstrates how an analytics professional can act as a strategic partner by bridging fraud operations, finance, and leadership.
 
